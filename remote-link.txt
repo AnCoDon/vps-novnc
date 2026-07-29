@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mba-pride-belts-rain.trycloudflare.com/vnc.html
+URL       : https://township-bomb-primary-therapy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 07:40:36
+Created   : 2026-07-29 11:57:49
 =======================================================
