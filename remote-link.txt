@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drum-census-aruba-mats.trycloudflare.com/vnc.html
+URL       : https://consumer-americans-soft-aruba.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 01:30:41
+Created   : 2026-07-30 07:30:52
 =======================================================
