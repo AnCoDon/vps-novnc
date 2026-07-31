@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ward-sized-our-bless.trycloudflare.com/vnc.html
+URL       : https://later-sake-mouse-town.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 11:55:43
+Created   : 2026-07-31 16:33:45
 =======================================================
