@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://opposition-mount-numerous-screens.trycloudflare.com/vnc.html
+URL       : https://semiconductor-purpose-sauce-indicator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 01:58:59
+Created   : 2026-08-01 07:26:04
 =======================================================
