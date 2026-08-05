@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://parking-variety-email-patch.trycloudflare.com/vnc.html
+URL       : https://manufacture-kept-quite-coastal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 11:54:19
+Created   : 2026-08-05 16:29:18
 =======================================================
