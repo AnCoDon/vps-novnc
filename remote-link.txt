@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://zum-switches-sacramento-winston.trycloudflare.com/vnc.html
+URL       : https://environmental-lovely-packets-partnerships.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 21:05:06
+Created   : 2026-08-05 01:46:57
 =======================================================
