@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://impossible-okay-managing-eligible.trycloudflare.com/vnc.html
+URL       : https://debian-proprietary-nested-triangle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 00:58:34
+Created   : 2026-08-08 05:38:51
 =======================================================
