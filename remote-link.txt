@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fifty-server-enables-warner.trycloudflare.com/vnc.html
+URL       : https://noble-heaven-bush-headlines.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 10:56:19
+Created   : 2026-08-13 15:54:02
 =======================================================
