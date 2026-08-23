@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://speeds-eyes-external-eau.trycloudflare.com/vnc.html
+URL       : https://scout-reg-absorption-secondary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 20:14:32
+Created   : 2026-08-23 00:46:31
 =======================================================
