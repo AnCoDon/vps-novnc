@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adapters-nails-holmes-mesa.trycloudflare.com/vnc.html
+URL       : https://merge-permits-electronic-toolbar.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 22:08:49
+Created   : 2026-09-12 02:15:19
 =======================================================
