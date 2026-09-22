@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://should-duo-tooth-track.trycloudflare.com/vnc.html
+URL       : https://cad-kick-memo-sized.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-22 18:28:19
+Created   : 2026-09-22 22:35:12
 =======================================================
