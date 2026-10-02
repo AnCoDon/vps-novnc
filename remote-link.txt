@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://words-warranties-editors-metro.trycloudflare.com/vnc.html
+URL       : https://palm-degrees-photographs-simple.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 03:14:29
+Created   : 2026-10-02 10:50:37
 =======================================================
