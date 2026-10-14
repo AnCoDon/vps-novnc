@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://horizon-communicate-prizes-console.trycloudflare.com/vnc.html
+URL       : https://detected-obligations-should-escape.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 14:50:00
+Created   : 2026-10-14 22:53:54
 =======================================================
