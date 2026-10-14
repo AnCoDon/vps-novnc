@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://demonstrated-friday-losing-bones.trycloudflare.com/vnc.html
+URL       : https://horizon-communicate-prizes-console.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 09:52:57
+Created   : 2026-10-14 14:50:00
 =======================================================
