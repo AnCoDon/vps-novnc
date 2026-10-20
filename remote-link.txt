@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ready-anaheim-locations-mon.trycloudflare.com/vnc.html
+URL       : https://hints-governance-circus-knights.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 02:43:07
+Created   : 2026-10-20 09:45:57
 =======================================================
