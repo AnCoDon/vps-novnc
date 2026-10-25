@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://optical-document-equality-yours.trycloudflare.com/vnc.html
+URL       : https://lucia-pad-scores-mounts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 22:10:00
+Created   : 2026-10-25 02:24:38
 =======================================================
